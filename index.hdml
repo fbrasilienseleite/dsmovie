@@ -29,15 +29,170 @@
 
 <main>
   <section id="Dsmovie-card-list" class= "container">
+
+ <div class="row">
+  
+  <div class="col-sm-6 col-lg-4 col-xl-3 mb-3">
+
    <div class="Dsmovie-card">
 
-        <img src="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jBJWaqoSCiARWtfV0GlqHrcdidd.jpg" alt="The Witcher">
+        <img src="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jBJWaqoSCiARWtfV0GlqHrcdidd.jpg" alt="The Witcher">   
+  
       <div class="dsmovie-card-description" >
-        <h3> The Witcher</h3>
+        <h3>  The Witcher </h3>
         <a class ="Dsmovie-btn" href="form.html">Avaliar</a>
       
       </div>
    </div>
+   </div>
+
+   <div class="col-sm-6 col-lg-4 col-xl-3 mb-3">
+
+   <div class="Dsmovie-card">
+
+        <img src="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/41yaWnIT8AjIHiULHtTbKNzZTjc.jpg" alt= "The Flash">      
+        <div class="dsmovie-card-description" >
+        <h3> The Flash </h3>
+        <a class ="Dsmovie-btn" href="form.html">Avaliar</a>
+      
+      </div>
+   </div>
+   </div>
+   
+   <div class="col-sm-6 col-lg-4 col-xl-3 mb-3">
+
+   <div class="Dsmovie-card">
+
+        <img src="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg" alt="Eternos">
+      <div class="dsmovie-card-description" >
+        <h3> Eternos </h3>
+        <a class ="Dsmovie-btn" href="form.html">Avaliar</a>
+      
+      </div>
+   </div>
+   </div>
+   
+   
+   <div class="col-sm-6 col-lg-4 col-xl-3 mb-3">
+
+   <div class="Dsmovie-card">
+
+        <img src="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/cinER0ESG0eJ49kXlExM0MEWGxW.jpg" alt="Shang Chi e a Lenda dos dez Anéis">
+      <div class="dsmovie-card-description" >
+        <h3> Shang Chi e a Lenda dos dez Anéis</h3>
+        <a class ="Dsmovie-btn" href="form.html">Avaliar</a>
+      
+      </div>
+   </div>
+   </div>
+
+    <div class="col-sm-6 col-lg-4 col-xl-3 mb-3">
+
+      <div class="Dsmovie-card">
+
+        <img src="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg" alt="Homen-Aranha Sem Volta Para a Casa">
+      <div class="dsmovie-card-description" >
+        <h3> Homen-Aranha Sem Volta Para a Casa</h3>
+        <a class ="Dsmovie-btn" href="form.html">Avaliar</a>
+      
+      </div>
+   </div>
+  </div>
+
+  <div class="col-sm-6 col-lg-4 col-xl-3 mb-3">
+
+   <div class="Dsmovie-card">
+
+        <img src="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg" alt="Matrix Resurrections">
+      <div class="dsmovie-card-description" >
+        <h3> Matrix Resurrections</h3>
+        <a class ="Dsmovie-btn" href="form.html">Avaliar</a>
+      
+      </div>
+   </div>
+   </div>
+
+<div class="col-sm-6 col-lg-4 col-xl-3 mb-3">
+
+   <div class="Dsmovie-card">
+
+        <img src="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/o76ZDm8PS9791XiuieNB93UZcRV.jpg" alt="Resident Evil: Bem-Vindo a Raccon City">
+      <div class="dsmovie-card-description" >
+        <h3> Resident Evil: Bem-Vindo a Raccon Cit </h3>
+        <a class ="Dsmovie-btn" href="form.html">Avaliar</a>
+      
+      </div>
+   </div>
+   </div>
+
+<div class="col-sm-6 col-lg-4 col-xl-3 mb-3">
+
+   <div class="Dsmovie-card">
+
+        <img src="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/5P8SmMzSNYikXpxil6BYzJ16611.jpg" alt="Batman (2022)">
+      <div class="dsmovie-card-description" >
+        <h3> Batman (2022)</h3>
+        <a class ="Dsmovie-btn" href="form.html">Avaliar</a>
+      
+      </div>
+   </div>
+   </div>
+
+<div class="col-sm-6 col-lg-4 col-xl-3 mb-3">
+
+   <div class="Dsmovie-card">
+
+        <img src="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jorgjEk6a0bed6jdR5wu4S6ZvRm.jpg" alt="Liga da Justiça">
+      <div class="dsmovie-card-description" >
+        <h3> Liga da Justiça</h3>
+        <a class ="Dsmovie-btn" href="form.html">Avaliar</a>
+      
+      </div>
+   </div>
+   </div>
+
+<div class="col-sm-6 col-lg-4 col-xl-3 mb-3">
+
+   <div class="Dsmovie-card">
+
+        <img src="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/AaABt75ZzfMGrscUR2seabz4PEX.jpg" alt="Mulher-Maravilha">
+      <div class="dsmovie-card-description" >
+        <h3> Mulher-Maravilha</h3>
+        <a class ="Dsmovie-btn" href="form.html">Avaliar</a>
+      
+      </div>
+   </div>
+   </div>
+
+<div class="col-sm-6 col-lg-4 col-xl-3 mb-3">
+
+   <div class="Dsmovie-card">
+
+        <img src="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/7FWlcZq3r6525LWOcvO9kNWurN1.jpg" alt="Capitão América:Guerra Civil">
+      <div class="dsmovie-card-description" >
+        <h3> Capitão América:Guerra Civil</h3>
+        <a class ="Dsmovie-btn" href="form.html">Avaliar</a>
+      
+      </div>
+   </div>
+   </div>
+
+<div class="col-sm-6 col-lg-4 col-xl-3 mb-3">
+
+   <div class="Dsmovie-card">
+
+        <img src="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/aL53oMdZKZRJRH8txH07DLuleF9.jpg" alt="Doutor Estranho">
+      <div class="dsmovie-card-description" >
+        <h3> Doutor Estranho</h3>
+        <a class ="Dsmovie-btn" href="form.html">Avaliar</a>
+      
+      </div>
+   </div>
+   </div>
+
+   
+  </div>
+
   </section>
 
 </main>
