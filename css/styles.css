@@ -51,7 +51,7 @@ a, a:hover {
 
 
 #Dsmovie-card-list {
-padding: 40px 0;
+padding: 0  10px;
 
 }  
 .Dsmovie-card {
@@ -169,4 +169,43 @@ width: 100%;
         align-items: center;
         justify-content: space-between;
 
+}
+.dsmovie-pargination-container {
+
+    padding: 15px 0;
+    display: flex;
+    justify-content:center;
+}
+.dsmovie-pargination-box {
+    width: 180px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    }
+.dsmovie-pargination-box p {
+
+    margin: 0;
+    font-size: 12px;
+    color: var(--color-primary);
+    font-weight: 400;
+}
+.dsmovie-pargination-box button {
+    width: 40px;
+    height: 40px;
+    border: 1px solid var(--color-primary);
+    border-radius:4px ;
+    background-color: var(--bg-gray);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.dsmovie-pargination-box button:disabled {
+
+    border: 1px solid var(--text-light-gray);
+}
+.dsmovie-flip-horizontal {
+
+    transform:rotate(180deg);
 }
